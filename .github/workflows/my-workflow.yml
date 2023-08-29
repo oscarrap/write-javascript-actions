@@ -1,4 +1,5 @@
-name: JS Actions
+- name: ha-ha
+  uses: ./.github/actions/joke-action
 
 on:
   issues:
